@@ -10,7 +10,6 @@ Senior Full Stack Developer with 7+ years of experience of designing, developing
 🥉Databases: MySQL, PostgreSQL, MongoDB, and Oracle</br>
 🏆Cloud and DevOps: AWS, Azure, Docker, Kubernetes, CI/CD pipelines</br>
 💰Blockchain: Solidity, Go, Rust, Python, Java, Web3
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](D:\git\QQ0907.github.io\myproject\image\1385382.jpg)
 <!--
 **QQ0907/QQ0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
