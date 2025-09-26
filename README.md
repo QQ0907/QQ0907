@@ -1,9 +1,9 @@
-## Hi there 👋
-<!-- This content will appear in the rendered Markdown -->
+## Hi! 👋✨✨
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-# resume
-Senior Full Stack Developer with 7+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.
-
+## About me
+Senior Full Stack Developer with 7+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.</br>
+Bachelor’s Degree in Computer Science</br>
+California Institute of Technology, Los Angeles, CA
 <!--
 **QQ0907/QQ0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
