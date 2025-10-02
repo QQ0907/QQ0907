@@ -1,14 +1,18 @@
 ## Hi, there! 👋✨✨
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / AI Engineer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
-## About me 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Create,%20Collaborate,%20Challenge;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20never20stop%20learning&center=true&width=380&height=45"></a>
+</p> 
+
+## About me
 <br>
 Senior Full Stack Developer with 7+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.</br>
 ✨Bachelor’s Degree in Computer Science✨</br>
 ✨California Institute of Technology, Los Angeles, CA✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 
-## Skills
+## Used Skills
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -167,6 +171,8 @@ Senior Full Stack Developer with 7+ years of experience of designing, developing
   </tr>
 </table>
 <br>
+
+## Core Skills
 🥇<b>Frontend</b>: React, Angular, Next.js, HTML5, CSS3, JavaScript(ES6+), TypeScript</br>
 🥈<b>Backend</b>: Node.js, Express.js, Django, Spring Boot, REST APIs</br>
 🥉<b>Databases</b>: MySQL, PostgreSQL, MongoDB, and Oracle</br>
