@@ -54,10 +54,10 @@ Senior Full Stack Developer with 7+ years of experience of designing, developing
   </tr>
   <tr>
       <td align="center" width="96">
-      <a href="#html5">
+      <!-- <a href="#html5">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
-      <br>Html5
+      <br>Html5 -->
     </td>   
     <td align="center" width="96">
       <a href="#css3">
@@ -124,19 +124,19 @@ Senior Full Stack Developer with 7+ years of experience of designing, developing
         <br>Livewire
     </td>
     <td align="center" width="96">
-        <a href="#alpinejs">
+        <!-- <a href="#alpinejs">
             <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
                 height="48" alt="alpinejs" />
         </a>
-        <br>Alpine JS
+        <br>Alpine JS -->
     </td>   
   </tr>
    <tr>
       <td align="center" width="96">
-      <a href="#ubuntu" >
+      <!-- <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Ubuntu
+      <br>Ubuntu -->
     </td>
      <td align="center" width="96">
       <a href="#digitalocean">
@@ -163,10 +163,10 @@ Senior Full Stack Developer with 7+ years of experience of designing, developing
       <br>Postman
     </td>
       <td align="center" width="96">
-      <a href="#vuepress" >
+      <!-- <a href="#vuepress" >
         <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>VuePress
+      <br>VuePress -->
     </td>
   </tr>
 </table>
