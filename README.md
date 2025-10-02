@@ -1,14 +1,13 @@
 ## Hi, there! 👋✨✨
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / AI Engineer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
-## About me
+## About me 
+<br>
 Senior Full Stack Developer with 7+ years of experience of designing, developing, and maintaining scalable web applications. Proficient in front-end and back-end technologies, cloud infrastructure, and modern software practices. Strong track record of delivering high-quality solutions in fast-paced environments. Passionate about clean code, team collaboration, and building products that improve user experiences.</br>
 ✨Bachelor’s Degree in Computer Science✨</br>
 ✨California Institute of Technology, Los Angeles, CA✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
+
 ## Skills
 <table align="center">
   <tr>
